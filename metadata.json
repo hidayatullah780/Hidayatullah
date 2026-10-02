@@ -1,0 +1,6 @@
+{
+  "name": "SDUF",
+  "description": "Students' Democratic Union Federation organization portal and member administration system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
